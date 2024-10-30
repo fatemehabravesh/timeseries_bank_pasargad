@@ -1,0 +1,1 @@
+"In this practice, I start by downloading a dataset from the TSETMC site. In the R program, after preprocessing the data, I forecast the time series data for the future and evaluate the assumptions. You can do this with different datasets, although there is a specific dataset in my repository."
